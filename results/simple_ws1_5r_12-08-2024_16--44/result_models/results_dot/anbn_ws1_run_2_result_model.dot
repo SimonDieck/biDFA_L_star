@@ -1,0 +1,11 @@
+digraph{
+0 [color=red, style=striped, shape=doublecircle]
+1 [color=blue, style=striped, shape=Mcircle]
+2 [color=blue, style=striped, shape=Mcircle]
+0->1 [label=0]
+0->2 [label=1]
+1->2 [label=0]
+1->0 [label=1]
+2->2 [label=0]
+2->2 [label=1]
+}

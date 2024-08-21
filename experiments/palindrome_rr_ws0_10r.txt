@@ -1,0 +1,14 @@
+{
+"palindrome_rr_ws0_10r":
+[
+{
+    "ExpID":"palindrome_rr_ws0",
+    "teacher":".\\teachers\\palindrome.txt",
+    "AlphabetSize":"3",
+    "teacherType":"biDFA",
+    "WarmStart":"0",
+    "repeats":"10",
+    "ResetRemember":"1"
+}
+]
+}

@@ -1,0 +1,179 @@
+{
+"simple_ws2_5r_19-08-2024_16--39":[
+{
+"ExpID": "anbn_ws2_run_1", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 3, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbn_ws2_run_2", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 3, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbn_ws2_run_3", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 3, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbn_ws2_run_4", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 3, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbn_ws2_run_5", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 3, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_ws2_run_1", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_ws2_run_2", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_ws2_run_3", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_ws2_run_4", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_ws2_run_5", 
+"Date of execution": "19-08-2024 16-39-44", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anccbn_ws2_run_1", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anccbn_ws2_run_2", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anccbn_ws2_run_3", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anccbn_ws2_run_4", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anccbn_ws2_run_5", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbbn_ws2_run_1", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 4, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbbn_ws2_run_2", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "0s", 
+"Model size": 4, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbbn_ws2_run_3", 
+"Date of execution": "19-08-2024 16-39-45", 
+"Execution time": "1s", 
+"Model size": 39, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbbn_ws2_run_4", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 12, 
+"Early stop": "False" 
+},
+{
+"ExpID": "anbbn_ws2_run_5", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 6, 
+"Early stop": "False" 
+},
+{
+"ExpID": "abbbn_ws2_run_1", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 8, 
+"Early stop": "False" 
+},
+{
+"ExpID": "abbbn_ws2_run_2", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 6, 
+"Early stop": "False" 
+},
+{
+"ExpID": "abbbn_ws2_run_3", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 9, 
+"Early stop": "False" 
+},
+{
+"ExpID": "abbbn_ws2_run_4", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 9, 
+"Early stop": "False" 
+},
+{
+"ExpID": "abbbn_ws2_run_5", 
+"Date of execution": "19-08-2024 16-39-47", 
+"Execution time": "0s", 
+"Model size": 8, 
+"Early stop": "False" 
+}
+]
+}

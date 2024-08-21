@@ -1,0 +1,45 @@
+{
+"simple_ws1_5r":
+[
+{
+    "ExpID":"anbn_ws2",
+    "teacher":".\\teachers\\anbn.txt",
+    "AlphabetSize":"2",
+    "teacherType":"biDFA",
+    "WarmStart":"2",
+    "repeats":"5"
+},
+{
+    "ExpID":"palindrome_ws2",
+    "teacher":".\\teachers\\palindrome.txt",
+    "AlphabetSize":"3",
+    "teacherType":"biDFA",
+    "WarmStart":"2",
+    "repeats":"5"
+},
+{
+    "ExpID":"anccbn_ws2",
+    "teacher":".\\teachers\\anccbn.txt",
+    "AlphabetSize":"3",
+    "teacherType":"biDFA",
+    "WarmStart":"2",
+    "repeats":"5"
+},
+{
+    "ExpID":"anbbn_ws2",
+    "teacher":".\\teachers\\anbbn.txt",
+    "AlphabetSize":"2",
+    "teacherType":"biDFA",
+    "WarmStart":"2",
+    "repeats":"5"
+},
+{
+    "ExpID":"abbbn_ws2",
+    "teacher":".\\teachers\\abbbn.txt",
+    "AlphabetSize":"2",
+    "teacherType":"biDFA",
+    "WarmStart":"2",
+    "repeats":"5"
+}
+]
+}

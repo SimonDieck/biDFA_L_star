@@ -1,0 +1,74 @@
+{
+"palindrome_rr_ws0_10r_15-08-2024_14--45":[
+{
+"ExpID": "palindrome_rr_ws0_run_1", 
+"Date of execution": "15-08-2024 14-45-56", 
+"Execution time": "49s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_2", 
+"Date of execution": "15-08-2024 14-46-53", 
+"Execution time": "30s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_3", 
+"Date of execution": "15-08-2024 14-47-26", 
+"Execution time": "10s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_4", 
+"Date of execution": "15-08-2024 14-47-39", 
+"Execution time": "11s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_5", 
+"Date of execution": "15-08-2024 14-47-53", 
+"Execution time": "19s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_6", 
+"Date of execution": "15-08-2024 14-48-14", 
+"Execution time": "8s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_7", 
+"Date of execution": "15-08-2024 14-48-25", 
+"Execution time": "10s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_8", 
+"Date of execution": "15-08-2024 14-48-36", 
+"Execution time": "5s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_9", 
+"Date of execution": "15-08-2024 14-48-43", 
+"Execution time": "0s", 
+"Model size": 5, 
+"Early stop": "False" 
+},
+{
+"ExpID": "palindrome_rr_ws0_run_10", 
+"Date of execution": "15-08-2024 14-48-44", 
+"Execution time": "0s", 
+"Model size": 8, 
+"Early stop": "False" 
+}
+]
+}
